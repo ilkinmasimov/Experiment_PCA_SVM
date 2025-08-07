@@ -1,12 +1,7 @@
 # Machine Learning Experiment Report
 
-## Experiment 2: Classification of Wine Dataset Using PCA and SVM Algorithms
+## Classification of Wine Dataset Using PCA and SVM Algorithms
 
-### Author Details
-- **Name:** Ilkin Masimov  
-- **Student ID:** 24SF51099  
-- **Experiment Date:** 2025-05-25  
-- **Institution:** Harbin Institute of Technology, Shenzhen  
 
 ---
 
